@@ -1,6 +1,4 @@
 # Linux-System-Monitoring-Maintenance-Toolkit
-=======
-# 🐧 Linux System Monitoring Toolkit
 
 A collection of Bash scripts to monitor and maintain a Linux system. This toolkit provides real-time system information, process monitoring, disk usage analysis, network diagnostics, service status checks, backups, cleanup operations, logging, and automated health report generation.
 
