@@ -17,7 +17,7 @@ ps -eo pid,user,%mem,%cpu.comm --sort=-%mem | head -16
 
 echo 
 if command -v htop &>/dev/null; then
-    echo "aunching htop..."
+    echo "launching htop..."
     htop
 else 
     echo "htop is not installed"
