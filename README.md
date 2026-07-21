@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 # Linux-System-Monitoring-Maintenance-Toolkit
 =======
 # 🐧 Linux System Monitoring Toolkit
