@@ -1,0 +1,14 @@
+# Run monitor every 5 minutes
+*/5 * * * * /path/to/Linux-System-Monitor/monitor.sh
+
+# Create backup every day at 2 AM
+0 2 * * * /path/to/Linux-System-Monitor/backup.sh
+
+# Cleanup every Sunday at 3 AM
+0 3 * * 0 /path/to/Linux-System-Monitor/cleanup.sh
+
+# Log system information every hour
+0 * * * * /path/to/Linux-System-Monitor/logger.sh
+
+# Check services every 10 minutes
+*/10 * * * * /path/to/Linux-System-Monitor/servicecheck.sh
