@@ -211,4 +211,3 @@ inside the `screenshots/` directory.
 ## 📜 License
 
 This project is licensed under the MIT License.
->>>>>>> ba0bae1 (Initial commit)
