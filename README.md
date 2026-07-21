@@ -71,7 +71,7 @@ Linux-System-Monitor/
 Clone the repository:
 
 ```bash
-git clone https://github.com/<your-username>/Linux-System-Monitor.git
+git clone https://github.com/aditirajput18/Linux-System-Monitoring-Maintenance-Toolkit.git
 ```
 
 Move into the project directory:
